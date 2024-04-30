@@ -8,7 +8,7 @@ repositories {
 }
 
 dependencies {
-    implementation("software.amazon.awssdk:apache-client:2.25.36")
+    implementation("software.amazon.awssdk:apache-client:2.25.41")
 }
 
 group = "com.mre"
